@@ -1,0 +1,84 @@
+#content{
+margin: 10px;
+background-color:f8f8f8; 
+border-radius: 5px;
+padding : 20px;
+}
+
+.border{
+border: solid;
+border-width:5px;
+}
+
+/* Start */
+#Overskrift{
+font-size: 24px;
+margin-left: auto;
+margin-right: auto;
+text-align:center;
+}
+
+/* Kontaktliste */
+.kontaktliste{
+display:inline-block;
+
+}
+.fan{
+float:right;
+display:inline-block;
+}
+#ringbeksrivelse{
+font-weight:bold;
+}
+
+
+/* Dialog */
+
+.kontakt0{
+text-align:center;
+}
+.kontakt{
+display:inline-block;
+font-size:13px;
+}
+.kontakt2{
+display:inline-block;
+}
+#bilde{
+display:inline-block;
+float:right;
+}
+#bilde2{
+display:inline-block;
+float:left;
+}
+.icon:hover{
+opacity: 0.3;
+}
+#melding{
+overflow-x: hidden;
+overflow-y: auto;
+max-height: 500px;
+}
+#chatbubble {
+margin: 10px;
+border: 2px solid #a1a1a1;
+padding: 10px 10px; 
+background: #dddddd;
+width: 90%;
+border-radius: 20px;
+}
+#chatbubble2 {
+margin: 10px;
+border: 2px solid #a1a1a1;
+padding: 10px 10px; 
+background: #f2efef;
+width: 90%;
+border-radius: 20px;
+}
+#dato {
+font-size: 10px;
+}
+
+
+
